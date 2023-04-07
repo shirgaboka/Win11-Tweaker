@@ -1,0 +1,11 @@
+F:\Programming\Visual Studio\Projects\Win11-Tweaker\bin\Debug\Win11-Tweaker.exe.config
+F:\Programming\Visual Studio\Projects\Win11-Tweaker\bin\Debug\Win11-Tweaker.exe
+F:\Programming\Visual Studio\Projects\Win11-Tweaker\bin\Debug\Win11-Tweaker.pdb
+F:\Programming\Visual Studio\Projects\Win11-Tweaker\obj\Debug\Win11-Tweaker.csproj.AssemblyReference.cache
+F:\Programming\Visual Studio\Projects\Win11-Tweaker\obj\Debug\Win11-Tweaker.csproj.SuggestedBindingRedirects.cache
+F:\Programming\Visual Studio\Projects\Win11-Tweaker\obj\Debug\Win11_Tweaker.MainForm.resources
+F:\Programming\Visual Studio\Projects\Win11-Tweaker\obj\Debug\Win11_Tweaker.Properties.Resources.resources
+F:\Programming\Visual Studio\Projects\Win11-Tweaker\obj\Debug\Win11-Tweaker.csproj.GenerateResource.cache
+F:\Programming\Visual Studio\Projects\Win11-Tweaker\obj\Debug\Win11-Tweaker.csproj.CoreCompileInputs.cache
+F:\Programming\Visual Studio\Projects\Win11-Tweaker\obj\Debug\Win11-Tweaker.exe
+F:\Programming\Visual Studio\Projects\Win11-Tweaker\obj\Debug\Win11-Tweaker.pdb
