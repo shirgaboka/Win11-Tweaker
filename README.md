@@ -1,2 +1,2 @@
 # Win11-Tweaker
-Tweaker for Windows
+Tweaker for Windows 11
